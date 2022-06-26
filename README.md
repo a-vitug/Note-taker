@@ -35,6 +35,7 @@ git clone
 
 ## Demo
 ![note-taker](./assets/note-taker.gif)
+View the site [here](https://notetaker00.herokuapp.com/)
 
 ------------
 
