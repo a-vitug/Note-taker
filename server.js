@@ -6,7 +6,7 @@ const uniqid = require('uniqid');
 
 // gets db.json
 let noteData = require('./db/db.json');
-const PORT = 3001;
+let PORT = process.env.PORT || 3001;
 
 const app = express();
 
